@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.0" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="client" project="SchiffeVersenken" file="/SchiffeVersenken/src/client" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="756" y="246"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="2" language="java" name="server" project="SchiffeVersenken" file="/SchiffeVersenken/src/server" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="482" y="72"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <package id="3" language="java" name="ui" project="SchiffeVersenken" file="/SchiffeVersenken/src/ui" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="223" y="244"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
