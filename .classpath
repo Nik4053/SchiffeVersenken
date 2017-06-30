@@ -3,5 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="E:/hddDokumente/GitHub/SchiffeVersenken/libs/NHLog.jar"/>
+	<classpathentry kind="lib" path="E:/hddDokumente/GitHub/SchiffeVersenken/libs/lwjgl-2.9.3.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
